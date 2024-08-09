@@ -1,0 +1,282 @@
+[
+    {
+        "id": 1,
+        "nome": "Superbad - É hoje",
+        "classificacao": "16 anos",
+        "genero": "Comédia",
+        "subgenero": "Adolescente",
+        "ano": "2007",
+        "elenco_principal": [
+            "Jonah Hill",
+            "Seth Rogen",
+            "Christopher Mintz-Plasse"
+        ],
+        "capa": "https://m.media-amazon.com/images/S/pv-target-images/641379687f56841a69968d75f87b28780e25d7f5e7566b64aa3b6701c554c826.jpg"
+    },
+    {
+        "id": 2,
+        "nome": "Todo Mundo em Pânico",
+        "classificacao": "16 anos",
+        "genero": "Comédia",
+        "subgenero": "Terror",
+        "ano": "2000",
+        "elenco_principal": [
+            "Anna Farris",
+            "Marlon Wayans",
+            "Dave Sheridan"
+        ],
+        "capa": "https://m.media-amazon.com/images/S/pv-target-images/422237ceb03ae0fe01f1a04939ce55bb30d9b143cd9e058c5275eb94d4edf0b8.jpg"
+    },
+    {
+        "id": 3,
+        "nome": "De Volta para o Futuro",
+        "classificacao": "12 anos",
+        "genero": "Ficção Científica",
+        "subgenero": "Infantil",
+        "ano": "1985",
+        "elenco_principal": [
+            "Michael J. Fox",
+            "Christopher Lloyd",
+            "Crispin Glover"
+        ],
+        "capa": "https://br.web.img3.acsta.net/medias/nmedia/18/90/95/62/20122008.jpg"
+    },
+    {
+        "id": 4,
+        "nome": "Sharkboy e Lavagirl",
+        "classificacao": "Livre",
+        "genero": "Aventura",
+        "subgenero": "Infantil",
+        "ano": "2005",
+        "elenco_principal": [
+            "Taylor Dooley",
+            "Taylor Lautner",
+            "Cayden Boyd"
+        ],
+        "capa": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrnBdFZlbvdMaJlFgpV9Vdfkt76H6lQBDVpA&s"
+    },
+    {
+        "id": 5,
+        "nome": "Batman: O Cavaleiro das Trevas",
+        "classificacao": "12 anos",
+        "genero": "Ação",
+        "subgenero": "Crime",
+        "ano": "2008",
+        "elenco_principal": [
+            "Christian Bale",
+            "Heath Ledger",
+            "Gary Oldman"
+        ],
+        "capa": "https://m.media-amazon.com/images/S/pv-target-images/ae8dddd0abc2fac14052f29bc2ae15ddd86374c0d3bd017171ee6473b8933b29.jpg"
+    },
+    {
+        "id": 6,
+        "nome": "Coraline e o Mundo Secreto",
+        "classificacao": "10 anos",
+        "genero": "Terror",
+        "subgenero": "Infantil",
+        "ano": "2009",
+        "elenco_principal": [
+            "Dakota Fanning",
+            "Teri Hatcher",
+            "Keith David"
+        ],
+        "capa": "https://m.media-amazon.com/images/I/512WfaWXcoL._AC_UF894,1000_QL80_.jpg"
+    },
+    {
+        "id": 7,
+        "nome": "O Jogo da Imitação",
+        "classificacao": "12 anos",
+        "genero": "Drama",
+        "subgenero": "Guerra",
+        "ano": "2014" ,
+        "elenco_principal": [
+            "Benedict Cumberbatch",
+            "Keira Knightley",
+            "Matthew Goode"
+        ],
+        "capa": "https://m.media-amazon.com/images/S/pv-target-images/f4fc62b20bb2efea88e0137c951e900306d4750f01c1a1fa3075a9f2486f295b.jpg"
+    },
+    {
+        "id": 8,
+        "nome": "Uma Ideia de Você",
+        "classificacao": "14 anos",
+        "genero": "Romance",
+        "subgenero": "Comédia",
+        "ano": "2024",
+        "elenco_principal": [
+            "Anne Hathaway",
+            "Nicholas Galitzine",
+            "Ella Rubin"
+        ],
+        "capa": "https://br.web.img3.acsta.net/pictures/24/03/06/17/15/1070935.jpg"
+    },
+    {
+        "id": 9,
+        "nome": "Matrix",
+        "classificacao": "14 anos",
+        "genero": "Ação",
+        "subgenero": "Ficção Científica",
+        "ano": "1999",
+        "elenco_principal": [
+            "Keanu Reeves",
+            "Laurence Fishburne",
+            "Carrie-Anne Moss"
+        ],
+        "capa": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQwLB63Bm8WaqqWPmYLi9_wEXXt47qq1UZBSzw05b9NrXlQyN-O"
+    },
+    {
+        "id": 10,
+        "nome": "Harry Potter e a Pedra Filosofal",
+        "classificacao": "Livre",
+        "genero": "Aventura",
+        "subgenero": "Infantil",
+        "ano": "2001",
+        "elenco_principal": [
+            "Daniel Radcliffe",
+            "Emma Watson",
+            "Rupert Grint"
+        ],
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/1/1d/Harry_Potter_Pedra_Filosofal_2001.jpg"
+    },
+    {
+        "id": 11,
+        "nome": "Megamente",
+        "classificacao": "Livre",
+        "genero": "Comédia",
+        "subgenero": "Infantil",
+        "ano": "2010",
+        "elenco_principal": [
+            "Will Ferrell",
+            "Tom McGrath",
+            "Ben Stiller"
+        ],
+        "capa": "https://play-lh.googleusercontent.com/bIB2VEW37-KYdq0JHNr_YdLJq2GjhOuGz5gL-G8kzyFuqJUW_Y1-rTIchKuaBbBaQ-PA"
+    },
+    {
+        "id": 12,
+        "nome": "John Wick: Parabellum",
+        "classificacao": "16 anos",
+        "genero": "Ação",
+        "subgenero": "Thriller",
+        "ano": "2019",
+        "elenco_principal": [
+            "Keanu Reeves",
+            "Halle Berry",
+            "Laurence Fishburne"
+        ],
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/e/e0/John_Wick_3_Parabellum.png"
+    },
+    {
+        "id": 13,
+        "nome": "Gente Grande",
+        "classificacao": "12 anos",
+        "genero": "Comédia",
+        "subgenero": "Drama",
+        "ano": "2010",
+        "elenco_principal": [
+            "Adam Sandler",
+            "Kevin James",
+            "David Spade"
+        ],
+        "capa": "https://br.web.img3.acsta.net/pictures/210/299/21029996_20130821205722213.jpg"
+    },
+    {
+        "id": 14,
+        "nome": "Gente Grande 2",
+        "classificacao": "12 anos",
+        "genero": "Comédia",
+        "subgenero": "Adolescente",
+        "ano": "2013",
+        "elenco_principal": [
+            "Adam Sandler",
+            "Kevin James",
+            "David Spade"
+        ],
+        "capa": "https://br.web.img3.acsta.net/pictures/210/049/21004903_20130510170049514.jpg"
+    },
+    {
+        "id": 15,
+        "nome": "Crepúsculo",
+        "classificacao": "12 anos",
+        "genero": "Romance",
+        "subgenero": "Fantasia",
+        "ano": "2008",
+        "elenco_principal": [
+            "Kristen Stewart",
+            "Robert Pattinson",
+            "Taylor Lautner"
+        ],
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/c/c1/Twilight_Poster.jpg"
+    },
+    {
+        "id": 16,
+        "nome": "Whiplash: Em Busca da Perfeição",
+        "classificacao": "12 anos",
+        "genero": "Drama",
+        "subgenero": "Independente",
+        "ano": "2014",
+        "elenco_principal": [
+            "Miles Teller",
+            "J. K. Simmons",
+            "Paul Reiser"
+        ],
+        "capa": "https://a-static.mlcdn.com.br/450x450/whiplash-em-busca-da-perfeicao-dvd-sony-pictures/saraiva/8693954/9695dbc09409251065d0a8426f7c6c3e.jpeg"
+    },
+    {
+        "id": 17,
+        "nome": "Em Ritmo de Fuga",
+        "classificacao": "14 anos",
+        "genero": "Ação",
+        "subgenero": "Thriller",
+        "ano": "2017",
+        "elenco_principal": [
+            "Ansel Elgort",
+            "Lily James",
+            "Jon Hamm"
+        ],
+        "capa": "https://upload.wikimedia.org/wikipedia/pt/7/78/Baby_Driver_poster.png"
+    },
+    {
+        "id": 18,
+        "nome": "A Freira",
+        "classificacao": "14 anos",
+        "genero": "Terror",
+        "subgenero": "Mistério",
+        "ano": "2018",
+        "elenco_principal": [
+            "Taissa Farmiga",
+            "Bonnie Aarons",
+            "Jonas Bloquet"
+        ],
+        "capa": "https://br.web.img3.acsta.net/pictures/18/07/18/21/53/1348208.jpg"
+    },
+    {
+        "id": 19,
+        "nome": "O Abutre",
+        "classificacao": "14 anos",
+        "genero": "Drama",
+        "subgenero": "Suspense",
+        "ano": "2014",
+        "elenco_principal": [
+            "Jake Gyllenhaal",
+            "Rene Russo",
+            "Bill Paxton"
+        ],
+        "capa": "https://br.web.img3.acsta.net/pictures/16/01/21/18/12/579835.jpg"
+    },
+    {
+        "id": 20,
+        "nome": "Shrek",
+        "classificacao": "Livre",
+        "genero": "Comédia",
+        "subgenero": "Fantasia",
+        "ano": "2001",
+        "elenco_principal": [
+            "Mike Myers",
+            "Eddie Murphy",
+            "Conrad Vernon"
+        ],
+        "capa": "https://br.web.img3.acsta.net/c_310_420/medias/nmedia/18/91/54/04/20150812.jpg"
+    }
+]
